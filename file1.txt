@@ -2,3 +2,4 @@ THIS is FILE1
 edited file1
 check file1
 next change
+third change
